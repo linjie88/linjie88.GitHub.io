@@ -1,17 +1,15 @@
 ---
 layout: post
-title: this is my first blog
-date: 2021-1-1
+title: 人脸年龄与性别识别方法
+date: 2021-1-19
 categories: blog
 tags: [标签一,标签二]
-description: 文章金句。
+description: 学习总结
 ---
 
-helloworld
-
-
-
-
+两种方案：
+1.使用Faster R．CNN算法进行人脸检测，提取人脸的CNN特征进行训练和测试。
+2.使用基于比例特征和Adaboost算法进行人脸检测，提取图像的LBP特征作为人脸特征。
 
 
 
